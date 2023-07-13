@@ -7,4 +7,4 @@ const FriendListSchema = mongoose.Schema({
     timestamps: true
 });
 
-module.exports = mongoose.model('FriendLists', FriendListSchema);
+module.exports = mongoose.model('FriendList', FriendListSchema);
